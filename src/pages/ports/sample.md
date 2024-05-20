@@ -16,3 +16,5 @@ This is a sample sentence.
 ---
 [AboutMe2](../about/AboutMe)
 
+---
+[AboutMe3](./about/AboutMe)
