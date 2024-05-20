@@ -10,7 +10,7 @@ date: "09 Aug 2022"
 This is a sample sentence.
 
 ---
-[AboutMe1](/astro_md/ports/about/AboutMe)
+[AboutMe1](../about/AboutMe1)
 
 
 ---
